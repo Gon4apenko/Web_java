@@ -1,0 +1,6 @@
+Text0.txt -> 2 occurrences
+Text3.txt -> 4 occurrences
+Text2.txt -> 1 occurrences
+Text0.txt -> 2 occurrences
+Text3.txt -> 4 occurrences
+Text2.txt -> 1 occurrences
